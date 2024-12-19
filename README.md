@@ -1,3 +1,4 @@
+# CodyBot - Coding assistant:
 ![image alt](https://github.com/MdFaisar/coding_assistant_codellama_streamlit_main/blob/main/screenshots/screenshot_1.png?raw=true)
 # Setting up the Environment
 # 1.Create new conda environment:
@@ -35,3 +36,5 @@ ollama pull codellama:7b-instruct-q4_K_M
 
 # Run the Application:
 streamlit run app.py
+
+![image alt](https://github.com/MdFaisar/coding_assistant_codellama_streamlit_main/blob/main/screenshots/screenshot_2.png?raw=true)
