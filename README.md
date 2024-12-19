@@ -1,3 +1,4 @@
+![image alt](https://github.com/MdFaisar/coding_assistant_codellama_streamlit_main/blob/main/screenshots/screenshot_1.png?raw=true)
 # Setting up the Environment
 # 1.Create new conda environment:
 conda create -n personal_code_assistant python=3.11
